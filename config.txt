@@ -6,3 +6,5 @@ code block added.
 .
 .
 <code>section N.</code>
+-a stash ++++++++++++++++++++++
+normal stash..............  
