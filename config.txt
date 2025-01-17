@@ -1,1 +1,10 @@
-
+code block added.
+<code>section 1.</code>
+<code>section 2.</code>
+<code>section 3.</code>
+.
+.
+.
+<code>section N.</code>
+-a stash ++++++++++++++++++++++
+normal stash..............  

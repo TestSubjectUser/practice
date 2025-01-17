@@ -1,0 +1,18 @@
+<style>
+  header {
+    background-color: #333;
+    padding: 30px;
+    text-align: center;
+  }
+  header h1 {
+    color: white;
+    font-size: 40px;
+  }
+</style>
+
+<header>
+  <h1>My Website</h1>
+</header>
+<footer>
+
+</footer>
