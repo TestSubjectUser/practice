@@ -1,4 +1,3 @@
 fourth reseted commit message.
 fifth msg,
 with this file.
-feat3|$3|.
